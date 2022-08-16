@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="8dp"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    >
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/welcome"
+        android:gravity="center"
+        android:padding="8dp"
+        android:layout_margin="16dp"
+        android:textSize="32sp"
+        android:fontFamily="@font/alegreya"
+        android:textStyle="bold"
+        android:textColor="@color/black"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/purpose"
+        android:gravity="center"
+        android:padding="8dp"
+        android:layout_margin="16dp"
+        android:textSize="18sp"
+        android:fontFamily="@font/andada"
+        />
+
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/sign_in_as_agent"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:cornerRadius="32dp"
+        android:backgroundTint="@color/white"
+        android:fontFamily="@font/alegreya"
+        android:text="@string/sign_in_as_agent"
+        android:textColor="@color/black"
+        android:textAllCaps="false"
+        android:layout_margin="16dp"
+        android:padding="8dp"
+        android:textSize="20sp"
+        />
+
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/sign_in_as_customer"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:cornerRadius="32dp"
+        android:backgroundTint="@color/grey"
+        android:fontFamily="@font/alegreya"
+        android:text="@string/sign_in_as_customer"
+        android:textColor="@color/white"
+        android:textAllCaps="false"
+        android:layout_margin="16dp"
+        android:padding="8dp"
+        android:textSize="20sp"
+        />
+
+</LinearLayout>

@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">adoma</string>
+    <string name="administrator">Administrator</string>
+    <string name="_2021_02_04">2021_02_04</string>
+    <string name="_00_49_30">00_49_30</string>
+    <string name="kumasi_ghana">kumasi, Ghana</string>
+    <string name="finished">finished</string>
+    <string name="create_agent">create agent</string>
+    <string name="create_customer">create customer</string>
+    <string name="create">create</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="system">Complainant Management System</string>
+    <string name="welcome">Complainant Management System</string>
+    <string name="purpose">The purpose of this system is to make it easier for customers of vodafone Ghana broadband internet to log in their problems about cable internet</string>
+    <string name="sign_in_as_customer">sign in as customer</string>
+    <string name="sign_in_as_agent">sign in as agent</string>
+    <string name="account_no">Account No.</string>
+    <string name="ghana_card_no">Ghana card No.</string>
+    <string name="lan_line">LAN Line</string>
+    <string name="router_no">Router No.</string>
+    <string name="dp_no">DP No.</string>
+    <string name="password">password</string>
+    <string name="phone">phone</string>
+    <string name="lastname">lastname</string>
+    <string name="firstname">firstname</string>
+    <string name="email">email</string>
+    <string name="othername">othername</string>
+    <string name="sign_up">sign up</string>
+    <string name="sign_in">sign in</string>
+    <string name="email_john_gmail_com">email - john@gmail.com</string>
+    <string name="grace_aboagye">Grace Aboagye</string>
+    <string name="home">home</string>
+    <string name="records">records</string>
+    <string name="settings">settings</string>
+</resources>

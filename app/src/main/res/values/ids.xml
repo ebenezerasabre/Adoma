@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="adminSignInEmail" type="id"/>
+    <item name="adminSignInPswd" type="id"/>
+    <item name="adminSignInBut" type="id"/>
+    <item name="createAgentBut" type="id"/>
+    <item name="createAgentPswd" type="id"/>
+    <item name="createAgentEmail" type="id"/>
+    <item name="createAgentPhone" type="id"/>
+    <item name="createAgentOthername" type="id"/>
+    <item name="createAgentLastname" type="id"/>
+    <item name="createAgentFirstname" type="id"/>
+    <item name="createCustomerFirstname" type="id"/>
+    <item name="createCustomerLastname" type="id"/>
+    <item name="createCustomerPhone" type="id"/>
+    <item name="createCustomerPswd" type="id"/>
+    <item name="createCustomerDpNo" type="id"/>
+    <item name="createCustomerRouterNo" type="id"/>
+    <item name="createCustomerLanLine" type="id"/>
+    <item name="createCustomerGhCardNo" type="id"/>
+    <item name="createCustomerAccountNo" type="id"/>
+    <item name="createCustomerBut" type="id" />
+</resources>
