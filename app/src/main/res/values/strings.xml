@@ -29,8 +29,11 @@
     <string name="sign_up">sign up</string>
     <string name="sign_in">sign in</string>
     <string name="email_john_gmail_com">email - john@gmail.com</string>
-    <string name="grace_aboagye">Grace Aboagye</string>
+    <string name="content">My internet is not working</string>
     <string name="home">home</string>
     <string name="records">records</string>
     <string name="settings">settings</string>
+    <string name="agent_gmail_com">agent@gmail.com</string>
+    <string name="type">type</string>
+    <string name="akosua_agyapong">Akosua Agyapong</string>
 </resources>

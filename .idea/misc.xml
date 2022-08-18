@@ -9,7 +9,9 @@
         <entry key="app/src/main/res/font/capriola.xml" value="0.16197916666666667" />
         <entry key="app/src/main/res/font/roboto.xml" value="0.16197916666666667" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.25" />
-        <entry key="app/src/main/res/layout/browse_complain.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/browse_agent.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/browse_complain.xml" value="0.22" />
+        <entry key="app/src/main/res/layout/browse_customer.xml" value="0.2822085889570552" />
         <entry key="app/src/main/res/layout/frag_admin_sign_in.xml" value="0.23697916666666666" />
         <entry key="app/src/main/res/layout/frag_admin_sign_up.xml" value="0.33" />
         <entry key="app/src/main/res/layout/frag_admin_signin.xml" value="0.2359375" />
