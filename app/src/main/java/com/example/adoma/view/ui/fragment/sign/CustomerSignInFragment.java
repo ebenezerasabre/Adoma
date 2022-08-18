@@ -1,4 +1,4 @@
-package com.example.adoma.view.ui.fragment;
+package com.example.adoma.view.ui.fragment.sign;
 
 import androidx.fragment.app.Fragment;
 

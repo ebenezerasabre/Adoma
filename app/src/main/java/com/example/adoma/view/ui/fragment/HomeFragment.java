@@ -12,6 +12,8 @@ import android.view.View;
 import android.view.ViewGroup;
 
 import com.example.adoma.R;
+import com.example.adoma.view.ui.fragment.sign.AgentSignInFragment;
+import com.example.adoma.view.ui.fragment.sign.CustomerSignInFragment;
 import com.google.android.material.button.MaterialButton;
 
 
@@ -25,7 +27,6 @@ public class HomeFragment extends Fragment {
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-
     }
 
     @Override
