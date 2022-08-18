@@ -1,15 +1,19 @@
 package com.example.adoma.service.entity;
 
-import android.arch.persistence.room.ColumnInfo;
-import android.arch.persistence.room.Entity;
-import android.arch.persistence.room.PrimaryKey;
+//import android.arch.persistence.room.ColumnInfo;
+//import android.arch.persistence.room.Entity;
+//import android.arch.persistence.room.PrimaryKey;
+
+import androidx.room.ColumnInfo;
+import androidx.room.Entity;
+import androidx.room.PrimaryKey;
 
 @Entity
 public class CustomerEntity {
     private static final long serialVersionUID = 110219951L;
 
     @PrimaryKey(autoGenerate = true)
-    String _id;
+    int _id;
 
     @ColumnInfo(name = "firstName")
     String firstname;
@@ -41,7 +45,7 @@ public class CustomerEntity {
     public CustomerEntity() {
     }
 
-    public CustomerEntity(String _id, String firstname, String lastname, String DPNo, String routerNo, String phone, String GHCard, String accNo, String lanLine, String date) {
+    public CustomerEntity(int _id, String firstname, String lastname, String DPNo, String routerNo, String phone, String GHCard, String accNo, String lanLine, String date) {
         this._id = _id;
         this.firstname = firstname;
         this.lastname = lastname;
@@ -54,11 +58,11 @@ public class CustomerEntity {
         this.date = date;
     }
 
-    public String get_id() {
+    public int get_id() {
         return _id;
     }
 
-    public void set_id(String _id) {
+    public void set_id(int _id) {
         this._id = _id;
     }
 

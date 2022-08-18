@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">adoma</string>
     <string name="administrator">Administrator</string>
+    <string name="agent">Agent</string>
     <string name="_2021_02_04">2021_02_04</string>
     <string name="_00_49_30">00_49_30</string>
     <string name="kumasi_ghana">kumasi, Ghana</string>
@@ -21,6 +22,7 @@
     <string name="router_no">Router No.</string>
     <string name="dp_no">DP No.</string>
     <string name="password">password</string>
+    <string name="unique_id">unique id</string>
     <string name="phone">phone</string>
     <string name="lastname">lastname</string>
     <string name="firstname">firstname</string>
@@ -28,7 +30,7 @@
     <string name="othername">othername</string>
     <string name="sign_up">sign up</string>
     <string name="sign_in">sign in</string>
-    <string name="email_john_gmail_com">email - john@gmail.com</string>
+    <string name="email_john_gmail_com">john@gmail.com</string>
     <string name="content">My internet is not working</string>
     <string name="home">home</string>
     <string name="records">records</string>
@@ -36,4 +38,6 @@
     <string name="agent_gmail_com">agent@gmail.com</string>
     <string name="type">type</string>
     <string name="akosua_agyapong">Akosua Agyapong</string>
+    <string name="_45duh873gj">45duh873gj</string>
+    <string name="customer">Customer</string>
 </resources>

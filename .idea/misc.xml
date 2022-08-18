@@ -15,7 +15,9 @@
         <entry key="app/src/main/res/layout/frag_admin_sign_in.xml" value="0.23697916666666666" />
         <entry key="app/src/main/res/layout/frag_admin_sign_up.xml" value="0.33" />
         <entry key="app/src/main/res/layout/frag_admin_signin.xml" value="0.2359375" />
+        <entry key="app/src/main/res/layout/frag_agent_sing_in.xml" value="0.15518798828125002" />
         <entry key="app/src/main/res/layout/frag_complain_details.xml" value="0.23697916666666666" />
+        <entry key="app/src/main/res/layout/frag_customer_sign_in.xml" value="0.1" />
         <entry key="app/src/main/res/layout/fragment_admin_create_account.xml" value="0.2359375" />
         <entry key="app/src/main/res/layout/fragment_create_agent.xml" value="0.23697916666666666" />
         <entry key="app/src/main/res/layout/fragment_create_customer.xml" value="0.33" />
